@@ -23,34 +23,6 @@ Projeto-cadastro-de-pessoas/
 └── README.md
 
 O arquivo cadastro.py é um exemplo de nome para o arquivo principal. Substitua-o pelo nome real do seu arquivo Python, caso seja diferente.
-## ⚙️ Como executar o projeto
-1. Pré-requisitos
-
-Tenha o Python 3 instalado no computador.
-
-Você pode baixá-lo no site oficial:
-
-https://www.python.org/downloads/
-
-O Tkinter geralmente já acompanha a instalação do Python. Em algumas distribuições Linux, pode ser necessário instalá-lo separadamente.
-
-2. Clone o repositório
-
-Abra o terminal e execute:
-
-git clone https://github.com/SEU-USUARIO/Projeto-cadastro-de-pessoas-.git
-
-
-Substitua SEU-USUARIO pelo seu nome de usuário do GitHub e ajuste o endereço caso o nome do repositório seja diferente.
-
-3. Acesse a pasta do projeto
-cd Projeto-cadastro-de-pessoas-
-
-4. Execute a aplicação
-python cadastro.py
-
-
-Se necessário, utilize python3 cadastro.py no lugar do comando anterior.
 
 ## 🖥️ Como utilizar
 Abra a aplicação.
